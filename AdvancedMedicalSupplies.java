@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
 package com.java.disasterresponsesystem;
-
+import java.util.Scanner;
 /**
  *
  * @author Dell
