@@ -1,6 +1,9 @@
 package com.java.disasterresponsesystem;
 import java.sql.*;
 import javax.swing.JOptionPane;
+import java.util.Scanner;
+
+
 public class CitizenProfile extends javax.swing.JFrame {
 private String currentUsername = "citizen";
     public CitizenProfile() {
